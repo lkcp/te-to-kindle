@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+*.mobi
+*.epub
+*.azw3
+*.pdf
