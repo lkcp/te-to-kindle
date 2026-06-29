@@ -9,7 +9,7 @@ on:
       format:
         description: "File format to push"
         type: choice
-        default: mobi
+        default: epub
         options: [mobi, epub, azw3, pdf]
 
 permissions:
